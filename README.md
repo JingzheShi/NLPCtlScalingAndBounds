@@ -2,7 +2,7 @@
 
 [Public repository]
 
-Experiment codes for the paper: Explaining Context Length Scaling and Bounds for Language Models.
+Experiment codes for the paper: Explaining Context Length Scaling and Bounds for Language Models. (arxiv link coming soon)
 
 ## Content in this repository
 
