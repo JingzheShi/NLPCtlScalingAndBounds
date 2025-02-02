@@ -44,7 +44,7 @@ Run `train_model.py` `--use_bi_mlp` setting, and train Bi-mlp on different conte
 
 ### 2.1. Environment setting-up
 
-Please refer to `NaturalLanguaage/Measuring/requirements.txt` for requirements.
+Please refer to `NaturalLanguage/Measuring/requirements.txt` for requirements.
 
 ### 2.2. Prepare dataset
 
@@ -60,13 +60,13 @@ Run `save_mid_features.py` to obtain different feature vectors.
 
 ### 2.5. Draw CE v.s. ID, or CE v.s. sum(log(eigval))
 
-Please refer to python scripts in `NaturalLanguaage\Measuring\draw_CEvsPCA` for drawing figures.
+Please refer to python scripts in `NaturalLanguage\Measuring\draw_CEvsPCA` for drawing figures.
 
 ## Part 3. Training and Evaluating on Openwebtext
 
 ### 3.1. Environment setting-up
 
-Please refer to `NaturalLanguaage/ContextLengthScalingTrainingExps/nanoGPT-master/README.md` for the installation of nanogpt.
+Please refer to `NaturalLanguage/ContextLengthScalingTrainingExps/nanoGPT-master/README.md` for the installation of nanogpt.
 
 ### 3.2. Generating dataset
 
