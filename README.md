@@ -4,6 +4,16 @@
 
 Experiment codes for the paper: Explaining Context Length Scaling and Bounds for Language Models. (arxiv link coming soon)
 
+**Authors:** [Jingzhe Shi](jingzheshi.github.io)$^{1,2}$, [Qinwei Ma](https://aquahorsem.github.io/)$^{1}$, [Hongyi Liu](https://www.linkedin.com/in/hongyi-liu-1442332b1)$^{3}$, [Hang Zhao](http://www.mit.edu/~hangzhao/)$^{1\,\star}$, [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)$^{4}$, [Serge Belongie](https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fserge-belongie(0ce65383-3761-4b17-948a-83b461e371e2)%2Fpublications.html)$^{5}$, [Lei Li](https://llei66.github.io/li-lei.github.io/)$^{4,5\,\star}$.
+
+&emsp; $^\star$: equal correspondence
+
+&emsp; $^1$: IIIS, Tsinghua University, $^2$: CPHOS Research, $^3$: Zhili College, Tsinghua University, $^4$: University of Washington, $^5$: University of Copenhagen.
+
+**Abstract:**
+
+Long Context Language Models have drawn great attention in the past few years. There has been work discussing the impact of long context on Language Model performance: some find that long irrelevant context could harm performance, while some experimentally summarize loss reduction by relevant long context as Scaling Laws. This calls for a more thorough understanding on how long context impact Language Modeling. In this work, we (1) propose a clean and effective theoretical framework on explaining the impact of context length to Language Modeling, from an Intrinsic Space perspective; and (2) conduct experiments on natural language and synthetic data, validating our proposed theoretical assumptions and deductions. Our theoretical framework can provide practical insights such as establishing that training dataset size dictates an optimal context length and bounds context length scaling for certain case. We hope our work may inspire new long context Language Models, as well as future work studying Physics for Language Models.
+
 ## Content in this repository
 
 The repository contains three major parts of code.
