@@ -1,14 +1,8 @@
-# NLPCtlScalingAndBounds
+## Code for ICLR 2026 paper: **Intrinsic Entropy of Context Length Scaling in LLMs** [[arXiv Link](https://arxiv.org/abs/2502.01481)]
 
-[Public repository]
+**Authors:** [Jingzhe Shi](jingzheshi.github.io)$^{1,2\ eq}$, [Qinwei Ma](https://aquahorsem.github.io/)$^{1\ eq}$, [Hongyi Liu](https://www.linkedin.com/in/hongyi-liu-1442332b1)$^{3\ eq}$, [Hang Zhao](http://www.mit.edu/~hangzhao/)$^{1\ \star}$, [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)$^{4}$, [Serge Belongie](https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fserge-belongie(0ce65383-3761-4b17-948a-83b461e371e2)%2Fpublications.html)$^{5}$, [Lei Li](https://llei66.github.io/li-lei.github.io/)$^{4,5\ \star}$.
 
-Experiment code for the paper:
-
-**Explaining Context Length Scaling and Bounds for Language Models** [[arXiv Link](https://arxiv.org/abs/2502.01481)]
-
-**Authors:** [Jingzhe Shi](jingzheshi.github.io)$^{1,2}$, [Qinwei Ma](https://aquahorsem.github.io/)$^{1}$, [Hongyi Liu](https://www.linkedin.com/in/hongyi-liu-1442332b1)$^{3}$, [Hang Zhao](http://www.mit.edu/~hangzhao/)$^{1\ \star}$, [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)$^{4}$, [Serge Belongie](https://di.ku.dk/english/staff/?pure=en%2Fpersons%2Fserge-belongie(0ce65383-3761-4b17-948a-83b461e371e2)%2Fpublications.html)$^{5}$, [Lei Li](https://llei66.github.io/li-lei.github.io/)$^{4,5\ \star}$.
-
-&emsp; $^\star$: equal correspondence
+&emsp; $^{eq}$: equal contribution; $^\star$: equal correspondence
 
 &emsp; $^1$: IIIS, Tsinghua University, $^2$: CPHOS Research, $^3$: Zhili College, Tsinghua University, $^4$: University of Washington, $^5$: University of Copenhagen.
 
