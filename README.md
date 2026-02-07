@@ -1,4 +1,4 @@
-## Code for ICLR 2026 paper: **Intrinsic Entropy of Context Length Scaling in LLMs** [[arXiv Link](https://arxiv.org/abs/2502.01481)]
+## Code for paper: **Explaining Context Length Scaling and Bounds for Language Models** [[arXiv Link](https://arxiv.org/abs/2502.01481)]
 
 **Authors:** [Jingzhe Shi](jingzheshi.github.io)$^{1,2\ eq}$, [Qinwei Ma](https://aquahorsem.github.io/)$^{1\ eq}$, [Hongyi Liu](https://www.linkedin.com/in/hongyi-liu-1442332b1)$^{3\ eq}$, [Hang Zhao](http://www.mit.edu/~hangzhao/)$^{1\ \star}$, [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)$^{4}$,  [Lei Li](https://llei66.github.io/li-lei.github.io/)$^{4,5\ \star}$.
 
